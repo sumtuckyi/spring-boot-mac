@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3de40c1a-d502-4c13-b9c0-2f3e7964076b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/repo/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/rest/CartRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/service/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/entity/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/entity/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud 복사본/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/entity/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2bXGXnu4XCuJ5M8jGxu4FDa0Ge5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sumtuckyi/Desktop/dev-spring-boot/04-spring-boot-rest-crud",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3de40c1a-d502-4c13-b9c0-2f3e7964076b" name="Changes" comment="" />
+      <created>1706354051447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706354051447</updated>
+      <workItem from="1706354052620" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
